@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Python Müll
+__pycache__/
+*.pyc
+
+# Daten und Modelle (ZU GROSS FÜR GITHUB)
+*.pth
+*.pt
+dataset/
+culane/
+*.zip
+*.mp4
